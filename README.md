@@ -1,2 +1,2 @@
 # swiftui_tutorials
-Practice SwiftUI
+Practice SwiftUI : https://developer.apple.com/tutorials/swiftui
